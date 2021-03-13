@@ -1,4 +1,4 @@
-import initAnimacaoScroll from "./scroll-animacao";
+import initAnimacaoScroll from "./scroll-anima";
 
 export default class Modal {
   constructor(botaoAbrir, botaoFechar, containerModal) {
